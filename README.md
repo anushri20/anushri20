@@ -4,17 +4,16 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Mody University.
-- I ❤️ to think, learn, code, and customize everything
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- I  ❤️ to think, learn, code, and customize everything
+- ✍️ &nbsp;Pursuing Website Design and Animation as hobbies/side hustles.
 - 💬 Ask me about: everything especially about **tech, movies, series**
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Python | C++ | PHP | EXPRESS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | SASS | LESS | GSAP
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
 
 <br/>
 
