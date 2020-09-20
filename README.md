@@ -4,9 +4,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Mody University.
-- I  ❤️ to think, learn, code, and customize everything
 - ✍️ &nbsp;Pursuing Website Design and Animation as hobbies/side hustles.
 - 💬 Ask me about: everything especially about **tech, movies, series**
+- I  ❤️ to think, learn, code, and customize everything
 
 <h3>🛠 Tech Stack</h3>
 
