@@ -10,7 +10,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C++ | PHP | EXPRESS
+- 💻 &nbsp; Python | C++ | PHP | Express
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | SASS | LESS | GSAP
 - 🛢 &nbsp; MySQL | MongoDB
 
