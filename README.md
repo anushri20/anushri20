@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/anushri-68a25a196/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anushri-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/anu_shri__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anu_shri__-blue?style=flat-square&logo=instagram"></a>
+<!-- <a href="https://www.instagram.com/anu_shri__/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-anu_shri__-blue?style=flat-square&logo=instagram"></a> -->
 <a href="mailto:anushri862@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anushri862@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/intent/follow?screen_name=ismlhbb)></a>
 </p>
