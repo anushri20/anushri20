@@ -11,6 +11,6 @@
 <a href="mailto:anushri862@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anushri862@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a [![Twitter Follow](https://img.shields.io/twitter/follow/ismlhbb?style=social)](https://twitter.com/intent/follow?screen_name=ismlhbb)></a>
 </p>
-<!-- ⭐️ From [anushri20](https://github.com/anushri20)
+<!--- ⭐️ From [anushri20](https://github.com/anushri20)
 
 
